@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/The-01/The-01/blob/main/banner-coding.gif)
 
-<h1 align="center">Hi 👋, I'm Atif Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Qamar Zaman</h1>
 <h3 align="center">Senior Microsoft Dynamics CRM Developer | Power Platform Expert | Full-Stack Developer</h3>
 <h4 align="center">🚀 Building Enterprise CRM Solutions & Business Automation | 3+ Years Experience | Based in Pakistan 🇵🇰</h4>
 
